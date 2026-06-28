@@ -6,8 +6,8 @@
 <img src="/img/title_banner/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Want your logo here? Contact RoGGa to have your logo featured here.">
 <p>It will include significant content from BCadren Crawl to be imported between June and August 2026 along with:</p>
 <ul><li>a big rework of the first 3 floors to include 1 corrupted forest floor as D:1; followed by</li>
-    <li>an underground abandonned village/town as D:2; followed by</li></ul>
-    <li>BCadren's Sewer floor as D:3</li></ul>
+    <li>an underground abandonned village/town as D:2; followed by</li>
+    <li>BCadren's Sewer floor as D:3 or D:4</li></ul>
 
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the CCO Webtiles server in time for the CCForksT in August 2026.
