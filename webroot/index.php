@@ -12,10 +12,11 @@
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the CCO Webtiles server in time for the CCForksT in August 2026.
 <h2>Founding members</h2>
-<ul><li>RoGGa: Project Manager</li>
-    <li>BCadren: Lead Developer</li>
-    <li>Red Eye: Junior Developer and Graphics Artist</li>
-    <li>srcrip:  Junior Developer</li></ul>
+<ul><li>RoGGa: Project Manager and Junior Developer</li>
+    <li>BCadren:     Lead Developer</li>
+    <li>Red Eye:     Junior Developer and Graphics Artist</li>
+    <li>MrSquiggles: Junior Developer</li>
+    <li>srcrip:      Junior Developer</li></ul>
 
 <p><b>GitHub repository</b>: <a href="https://github.com/DungeonCrawl-org/DungeonCrawlChili" target="_blank">github.com/DungeonCrawl-org/DungeonCrawlChili</a></p>
 <p>Download at: Not available yet</p>
