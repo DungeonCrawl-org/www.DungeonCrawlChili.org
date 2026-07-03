@@ -8,7 +8,7 @@
 1. A big rework of the first 4 floors to include:
 <ul><li>a randomly generated forested floor as D:1;</li>
     <li>a few static villages as D:2;</li>
-    <li>a D:3 with varried Castle type of structures; and</li>
+    <li>a D:3 with various Castle type vaults; and</li>
     <li>BCadren's Sewer floor as D:4</li></ul>
 <p>2. Many more Uniques (new and modified) are planned and to be encountered; and</p>
 <p>3. Most branches will be pruned by one floor (except for the Orcish Mines and the Elven Halls)</p>
@@ -37,8 +37,7 @@ with the goal of having a working beta version on the new DCF Webtiles server in
 Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> and let RoGGa know!</p>
 <p>The DC Chili fork is made up of a very small team right now and will need help in recruiting C programmers
    ...so if you know anyone who wants to be an active volunteer dev for a new and exciting crawl fork...please spread the word!</p>
-<p>We're also looking for a few specialized devs to make big special vaults (in .des files) for the new branch 
-   above the dungeon to be called (most likely): the Corrupted Kingdom (K:1-3)</p>
+<p>We're also looking for a few specialized devs to make big special vaults (in .des files).</p>
 
 <h3><b><center>Unique Visitors since June 2026</center></b></h3>
 <p><center><script type="text/javascript" src="https://counter.websiteout.com/js/2/5/-1/1"></script></center></p><br>
