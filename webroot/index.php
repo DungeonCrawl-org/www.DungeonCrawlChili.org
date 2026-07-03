@@ -9,6 +9,9 @@
     <li>an underground abandonned village/town as D:2; followed by</li>
     <li>BCadren's Sewer floor as D:3 or D:4</li></ul>
 
+<h3>List of changes:</h3>
+    <p><a href="/changesInDCChili.php">as of early July</a></p>
+
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the CCO Webtiles server in time for the CCForksT in August 2026.
 <h2>Founding members</h2>
