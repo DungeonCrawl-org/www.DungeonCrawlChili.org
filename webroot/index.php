@@ -5,14 +5,17 @@
 
 <img src="/img/title_banner/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Want your logo here? Contact RoGGa to have your logo featured here.">
 <p>It will include significant content from BCadren Crawl to be imported between June and August 2026 along with:</p>
-A big rework of the first 3 floors to include:
+- A big rework of the first 4 floors to include:
 <ul><li>a randomly generated forested floor as D:1;</li>
-    <li>a village as D:2;</li>
-    <li>D:3 with varried Castle type of structures; and</li>
+    <li>a few static villages as D:2;</li>
+    <li>a D:3 with varried Castle type of structures; and</li>
     <li>BCadren's Sewer floor as D:4</li></ul>
+<p>- Many more Uniques (new and modified) are planned and to be encountered; and</p>
+<p>- Most branches will be pruned by one floor (except for the Orcish Mines and the Elven Halls)</p>
 
 <h3>The fork was launched in: <b>June 2026</b></h3>
-with the goal of having a working beta version on the CCO Webtiles server in time for the CCForksT in August 2026.
+with the goal of having a working beta version on the new DCF Webtiles server in time for the CCForksT in August 2026.
+<p>See: <a href="https://dcf.dungeoncrawlforks.org/">dcf.dungeoncrawlforks.org</a> to play the latest changes.</p>
 
 <h3>List of current and planned changes:</h3>
     <p><a href="/changesInDCChili.php">as of July 3rd</a>.</p>
