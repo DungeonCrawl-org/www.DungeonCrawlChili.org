@@ -13,10 +13,10 @@
 </ul>
 
 <h2>Already planned:</h2>
-<ul><li>D:4 will be @bcadren 's Sewer level...but might be D:3 instead;</li>
+<ul><li>D:4 will be @bcadren 's Sewer level;</li>
     <li>Medusa, a naga with the Petrify spell, that will always show up on D:2. The intent will be to let her be on D:2 until the player has enough experience...sort of like an early Sygmund.</li>
     <li>Shorten the number of floors for each branch (including Dungeon) by 1 floor (except for Orcish Mines)</li>
-    <li>To compensate for the loss of XP from 1 less floor in branches, make Uniques much more frequent and possibly worth a bit more XL.</li>
+    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, we'll make Uniques much more frequent to spawn and possibly worth a bit more XL.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
