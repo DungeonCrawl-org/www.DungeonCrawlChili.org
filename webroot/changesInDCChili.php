@@ -1,6 +1,8 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
+<p>As of July 3rd at 8 am</p>
+
 <h2>Implemented already:</h2>
 <ul><li>The species Silent Specter was added from BCadren crawl;</li>
     <li>D:1 is mostly a forested open floor layout;</li>
@@ -14,7 +16,7 @@
 <ul><li>D:4 will be @bcadren 's Sewer level...but might be D:3 instead;</li>
     <li>Medusa, a naga with the Petrify spell, that will always show up on D:2. The intent will be to let her be on D:2 until the player has enough experience...sort of like an early Sygmund.</li>
     <li>Shorten the number of floors for each branch (including Dungeon) by 1 floor (except for Orcish Mines)</li>
-    <li>To compensate for the loss of XP from 1 less floor in branches, make Uniques much more frequent.</li>
+    <li>To compensate for the loss of XP from 1 less floor in branches, make Uniques much more frequent and possibly worth a bit more XL.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
