@@ -5,15 +5,18 @@
 
 <img src="/img/title_banner/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Want your logo here? Contact RoGGa to have your logo featured here.">
 <p>It will include significant content from BCadren Crawl to be imported between June and August 2026 along with:</p>
-<ul><li>a big rework of the first 3 floors to include 1 corrupted forest floor as D:1; followed by</li>
-    <li>an underground abandonned village/town as D:2; followed by</li>
-    <li>BCadren's Sewer floor as D:3 or D:4</li></ul>
-
-<h3>List of changes:</h3>
-    <p><a href="/changesInDCChili.php">as of early July</a></p>
+A big rework of the first 3 floors to include:
+<ul><li>a randomly generated forested floor as D:1;</li>
+    <li>a village as D:2;</li>
+    <li>D:3 with varried Castle type of structures; and</li>
+    <li>BCadren's Sewer floor as D:4</li></ul>
 
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the CCO Webtiles server in time for the CCForksT in August 2026.
+
+<h3>List of current and planned changes:</h3>
+    <p><a href="/changesInDCChili.php">as of July 3rd</a>.</p>
+
 <h2>Founding members</h2>
 <ul><li>RoGGa: Project Manager and Junior Developer</li>
     <li>BCadren:     Lead Developer</li>
