@@ -16,7 +16,7 @@
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the new DCF Webtiles server in time for the CCForksT in August 2026.
 <p>See: <a href="https://dcf.dungeoncrawlforks.org/" target="_blank">dcf.dungeoncrawlforks.org</a> to play the latest changes.</p>
-<p>or go to <a href="/downloads">/Dowloads</a> to play locally.</p>
+<p>or go to <a href="/downloads/">/downloads/</a> to play locally.</p>
 
 <h3>List of current and planned changes:</h3>
     <p><a href="/changesInDCChili.php">as of July 3rd</a>.</p>
