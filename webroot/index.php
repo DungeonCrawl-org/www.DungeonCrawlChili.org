@@ -19,7 +19,7 @@ with the goal of having a working beta version on the new DCF Webtiles server in
 <p>or go to <a href="/downloads.php">/downloads</a> to play locally.</p>
 
 <h3>List of current and planned changes:</h3>
-    <p><a href="/changesInDCChili.php">as of July 3rd</a>.</p>
+    <p><a href="/changesInDCChili.php">Latest update</a>.</p>
 
 <h2>Founding members</h2>
 <ul><li>RoGGa: Project Manager and Junior Developer</li>
