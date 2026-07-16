@@ -7,13 +7,13 @@
 <ul><li>The species Silent Specter was added from BCadren crawl;</li>
     <li>D:1 is mostly a forested open floor layout;</li>
     <li>D:2 is always the same static floor (for now until someone makes a few new full floor vaults);</li>
-    <li>Jessica right now always spawns in the small castle on the D:2 static floor layout, and drops a book 50% of time;</li>
-    <li>Medusa, a naga Unique with the Petrify spell, will always show up on D:2. The intent will be to let her be on D:2 until the player has enough experience...sort of like an early Sygmund.</li>
-    <li>D:3 has 3 vaults of castles. this still needs testing since I keep getting the same castle when testing on DCF;</li>
-    <li>There are new late game Uniques:
-        <li>Regal, an octopode with a cape, that was never added to DCSS over a year ago written by our own MrSquiggles.</li>
-        <li>Octavia the Heretic, an Octopode of Gozag</li>
-    </li>
+    <li>D:3 has 3 vaults of castles. This still needs testing since I keep getting the same castle when testing on DCF.</li>
+</ul>
+New or modified Uniques:
+<ul><li>Jessica right now always spawns in the small castle on the D:2 static floor layout, and drops a book 50% of time;</li>
+    <li>Medusa, a naga with the Petrify spell, will always show up on D:2 close to the granite statues. The intent will be to let her be on D:2 until the player has enough experience...sort of like an early Sygmund.</li>
+    <li>Regal, an octopode with a cape, that was never added to DCSS over a year ago written by our own MrSquiggles.</li>
+    <li>Octavia the Heretic, an Octopode of Gozag</li>
 </ul>
 
 <h2>Already planned:</h2>
