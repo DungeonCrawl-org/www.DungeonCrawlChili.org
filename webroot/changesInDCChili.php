@@ -17,7 +17,7 @@ New or modified Uniques:
 </ul>
 
 <h2>Already planned:</h2>
-<ul><li>D:4 will be @bcadren 's Sewer level;</li>
+<ul><li>D:4 will be BCadren's Sewer level;</li>
     <li>Shorten the number of floors for each branch (including Dungeon) by 1 floor (except for Orcish Mines and th Elven Halls)</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, we'll make Uniques much more frequent to spawn and possibly worth a bit more XP.</li>
     <li>Make Jessica not always give Blink as a Spell, so that only 25% of times you get the change of getting Blink on kill...as opposed to 50% of the time currently.</li>
