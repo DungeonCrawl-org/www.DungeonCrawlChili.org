@@ -1,7 +1,7 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of July 19th</p>
+<p>As of July 19th @9:20am Eastern time</p>
 
 <h2>Implemented already:</h2>
 <ul><li>The species Silent Specter was added from BCadren crawl;</li>
@@ -14,7 +14,7 @@
 </ul>
 <h4>New or modified Uniques:</h4>
 <ul><li>A higher density of Uniques has been implemented in the Dungeon;</li>
-    <li>Jessica drops a book 50% of time;</li>
+    <li>Jessica drops a book 50% of time with the Blink spell being included 50% of the time;</li>
     <li>Medusa, a naga with the Petrify spell, will always show up on D:2 close to the granite statues. 
         The intent will be to let her be on D:2 until the player has enough experience (XP)...sort of like an early Sygmund.
         Medusa on her own isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from the fountain.</li>
@@ -26,7 +26,6 @@
 
 <h2>Already planned:</h2>
 <ul><li>Uniques will possibly be worth a bit more XP if the power curve is too low.</li>
-    <li>Make Jessica not always give Blink as a Spell, so that only 25% of times you get the change of getting Blink on kill...as opposed to 50% of the time currently.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
