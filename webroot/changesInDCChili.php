@@ -15,7 +15,8 @@
     <li>Jessica drops a book 50% of time;</li>
     <li>Medusa, a naga with the Petrify spell, will always show up on D:2 close to the granite statues. 
         The intent will be to let her be on D:2 until the player has enough experience (XP)...sort of like an early Sygmund.
-        Medusa on her own isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from the fountain</li>
+        Medusa on her own isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from the fountain.</li>
+    <li>Oskar the Grump is a new D:4 unique that throws garbage bags at you (to be finalised July 19th).</li>
     <li>Regal, an octopode with a cape, that was never added to DCSS over a year ago written by our own MrSquiggles.
         Regal shows up somewhere in Vaults, Depths, Crypt and Zot.</li>
     <li>Octavia the Heretic, an Octopode of Gozag can show up in Depths.</li>
