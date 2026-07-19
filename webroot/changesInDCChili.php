@@ -9,6 +9,8 @@
     <li>D:2 is always the same static floor (for now until someone makes a few new full floor vaults);</li>
     <li>D:3 has 4 vaults of castles.</li>
     <li>D:4 is BCadren's sewer (partialy ported).</li>
+    <li>Shorten the number of floors for each branch (including Dungeon) by 1 floor (except for Orcish Mines, the Elven Halls and Crypt)</li>
+    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques are more frequent to spawn.</li>
 </ul>
 <h4>New or modified Uniques:</h4>
 <ul><li>A higher density of Uniques has been implemented in the Dungeon;</li>
@@ -23,8 +25,7 @@
 </ul>
 
 <h2>Already planned:</h2>
-<ul><li>Shorten the number of floors for each branch (including Dungeon) by 1 floor (except for Orcish Mines and th Elven Halls)</li>
-    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, we'll make Uniques much more frequent to spawn and possibly worth a bit more XP.</li>
+<ul><li>Uniques will possibly be worth a bit more XP if the power curve is too low.</li>
     <li>Make Jessica not always give Blink as a Spell, so that only 25% of times you get the change of getting Blink on kill...as opposed to 50% of the time currently.</li>
 </ul>
 
