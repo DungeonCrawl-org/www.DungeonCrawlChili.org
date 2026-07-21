@@ -25,7 +25,9 @@
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
-<ul><li>Other than the Dungeon, Uniques will possibly be worth a bit more XP if the power curve is too low.</li>
+<ul><li>The D:4 sewer might be swapped with D:3.</li>
+    <li>The 4 possible castle type of structures will have a Unique in each one.</li>
+    <li>Other than the Dungeon, Uniques will possibly be worth a bit more XP if the power curve is too low.</li>
     <li>Numerous imports from BCadren Crawl.</li>
 </ul>
 
