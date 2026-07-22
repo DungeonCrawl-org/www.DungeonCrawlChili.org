@@ -25,10 +25,8 @@
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
-<ul><li>For D:2, create a 2nd floor plan. This will possibly be the grated_community vault currently in use for D:4.</li>
-    <li>For D:3, add a few more castle/town type of big vaults and add a Unique in each one.</li>
-    <li>For D:4, finalize the sewer.</li>
-    <li>The D:4 sewer might get swapped with D:3.</li>
+<ul><li>Move the three D:3 vaults to D:2 and add a Unique in each one.</li>
+    <li>Move the sewer from D:4 to D:3.</li>
     <li>Possibly some more imports from BCadren Crawl.</li>
     <li>Other than the Dungeon, Uniques will possibly be worth a bit more XP if the power curve is too low from the reduced floor per branch.</li>
 </ul>
