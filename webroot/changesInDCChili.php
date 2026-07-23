@@ -1,7 +1,7 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of July 21st @10am Eastern time</p>
+<p>As of July 23 @ 6pm Eastern time</p>
 
 <h2>Implemented already:</h2>
 <ul><li>The species Silent Specter was added from BCadren crawl;</li>
