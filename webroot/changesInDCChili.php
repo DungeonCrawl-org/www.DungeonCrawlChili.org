@@ -11,6 +11,7 @@
     <li>D:4 is BCadren's sewer (partialy ported).</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor (except for Orcish Mines, the Elven Halls and Crypt)</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques are more frequent to spawn.</li>
+    <li>Lowered QB's and athame's mindelay to 14 skill, raise rapier's base dam to 10 or so, and give athame dagger stabbing modifier.</li>
 </ul>
 <h4>New or modified Uniques:</h4>
 <ul><li>A higher density of Uniques has been implemented in the Dungeon;</li>
@@ -27,16 +28,13 @@
 <h2>Already planned prior to CC Forks Tournament:</h2>
 <ul><li>Move the three D:3 vaults to D:2 and add a Unique in each one.</li>
     <li>Move the sewer from D:4 to D:3.</li>
+    <li>Add special staircases to branch ends for branches that were shortened by 1. Re-use the special staircase for V:5 code for the other branches.</li>
     <li>Possibly some more imports from BCadren Crawl.</li>
     <li>Other than the Dungeon, Uniques will possibly be worth a bit more XP if the power curve is too low from the reduced floor per branch.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
-<ul><li>kuniqs — Sunday, July 19, 2026 at 4:05 AM<br>
-        It'd be good to lower QB's and athame's mindelay to 14 skill, raise rapier's base dam to 10 or so, and give athame dagger stabbing modifier; 
-        all 3 of them have different niches to fill: qb for aux attacks, athame for spellcasters/stabbers, rapier for small races wanting a plain 
-        damage dealer/fallback for other 2 who didn't luck into their best SB type.</li>
-    <li>kuniqs — Sunday, July 19, 2026 at 5:22 AM<br>
+<ul><li>kuniqs — Sunday, July 19, 2026 at 5:22 AM<br>
         also: show xp values for monsters; probably remove hounds from d2 because you can easily go up 4 levels on them alone</li>
     <li>kuniqs — Remove the silence aura mutation, please.</li>
 </ul>
