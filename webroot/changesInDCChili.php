@@ -6,12 +6,11 @@
 <h2>Implemented already:</h2>
 <ul><li>The species Silent Specter was added from BCadren crawl;</li>
     <li>D:1 is mostly a forested open floor layout and has Jessica almost guaranteed;</li>
-    <li>D:2 is always the same static floor (for now until someone makes a few new full floor vaults);</li>
-    <li>D:3 has 4 vaults of castles/towns.</li>
+    <li>D:2 is has 4 different floors and Medusa is garanteed;</li>
     <li>D:4 is BCadren's sewer (partialy ported).</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor (except for Orcish Mines, the Elven Halls and Crypt)</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques are more frequent to spawn.</li>
-    <li>Lowered QB's and athame's mindelay to 14 skill, raise rapier's base dam to 10 or so, and give athame dagger stabbing modifier.</li>
+    <li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
 </ul>
 <h4>New or modified Uniques:</h4>
 <ul><li>A higher density of Uniques has been implemented in the Dungeon;</li>
@@ -26,11 +25,11 @@
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
-<ul><li>Move the three D:3 vaults to D:2 and add a Unique in each one.</li>
-    <li>Move the sewer from D:4 to D:3.</li>
-    <li>Add special staircases to branch ends for branches that were shortened by 1. Re-use the special staircase for V:5 code for the other branches.</li>
+<ul><li>Move the sewer from D:4 to D:3.</li>
+    <li>Add special staircases leading to branch ends for branches that were shortened by 1. Re-use the special staircase for V:5 code for the other branches.</li>
     <li>Possibly some more imports from BCadren Crawl.</li>
     <li>Other than the Dungeon, Uniques will possibly be worth a bit more XP if the power curve is too low from the reduced floor per branch.</li>
+    <li>A new Unique for Lair (and we need more for Lair): a yet-to-be-named stone dragon that casts stone arrow, basically a tuned down iron dragon.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
