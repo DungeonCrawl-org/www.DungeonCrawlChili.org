@@ -35,7 +35,7 @@
 
 <h2>Suggestions to be considered:</h2>
 <ul><li>kuniqs — Sunday, July 19, 2026 at 5:22 AM<br>
-        also: show xp values for monsters; probably remove hounds from d2 because you can easily go up 4 levels on them alone</li>
+        show xp values for monsters</li>
     <li>kuniqs — Remove the silence aura mutation, please.</li>
 </ul>
 <?php require 'views/footer.php'; ?>
