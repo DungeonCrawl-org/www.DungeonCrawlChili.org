@@ -36,5 +36,12 @@
 <ul><li>kuniqs — Sunday, July 19, 2026 at 5:22 AM<br>
         show xp values for monsters</li>
     <li>kuniqs — Remove the silence aura mutation, please.</li>
+    <li>kuniqs — Friday, July 24, 2026 at 5:37 AM<br>
+        Idea for a new mutation:<br>
+        "You have large clown feet"<br>
+        "You have clown-like feet"<br>
+        "You have clown shoes instead of feet"<br>
+        -(--) stealth, 3(4 5) base damage, kick trigger chance aux attack with 5% (10 15) chance to unresistably confuse the target for 1 (2 3) turns.
+        3rd level prohibits footwear, works only without boots like the kick</li>
 </ul>
 <?php require 'views/footer.php'; ?>
