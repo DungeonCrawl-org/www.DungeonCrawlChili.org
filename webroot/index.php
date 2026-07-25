@@ -5,13 +5,12 @@
 
 <img src="/img/title_banner/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Want your logo here? Contact RoGGa to have your logo featured here.">
 <p>It will include significant content from BCadren Crawl to be imported between June and August 2026 along with:</p>
-1. A big rework of the first 4 floors to include:
-<ul><li>a randomly generated forested floor as D:1;</li>
-    <li>a few static villages as D:2;</li>
-    <li>a D:3 with various Castle type vaults; and</li>
-    <li>BCadren's Sewer floor as D:4</li></ul>
-<p>2. Many more Uniques (new and modified) are planned and to be encountered; and</p>
-<p>3. Most branches will be pruned by one floor (except for the Orcish Mines and the Elven Halls)</p>
+1. A big rework of the first 3 floors to include:
+<ul><li>On D:1, a randomly generated forested floor with Jessica almost always spawning;</li>
+    <li>On D:2, 4 possible vaults of a castle with Medusa always spawning;</li>
+    <li>On D:3, BCadren's Sewer floor.</li></ul>
+<p>2. Many more Uniques (new and modified) are planned or have already been implemented; and</p>
+<p>3. Most branches have been pruned by one floor (except for the Orcish Mines, the Elven Halls and Crypts)</p>
 
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the new DCF Webtiles server in time for the CCForksT in August 2026.
@@ -26,6 +25,7 @@ with the goal of having a working beta version on the new DCF Webtiles server in
     <li>BCadren:     Lead Developer</li>
     <li>MrSquiggles: Developer</li>
     <li>Red Eye:     Junior Developer and Graphics Artist</li>
+</ul>
 
 <p><b>GitHub repository</b>: <a href="https://github.com/DungeonCrawl-org/DungeonCrawlChili" target="_blank">github.com/DungeonCrawl-org/DungeonCrawlChili</a></p>
 <p>Downloads at: <a href="downloads.php" target="_blank">/downloads</a></p>
