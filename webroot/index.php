@@ -22,16 +22,15 @@ with the goal of having a working beta version on the new DCF Webtiles server in
     <p><a href="/changesInDCChili.php">Latest update</a>.</p>
 
 <h2>Founding members</h2>
-<ul><li>RoGGa: Project Manager and Junior Developer</li>
+<ul><li>RoGGa: Project Manager and Developer</li>
     <li>BCadren:     Lead Developer</li>
+    <li>MrSquiggles: Developer</li>
     <li>Red Eye:     Junior Developer and Graphics Artist</li>
-    <li>MrSquiggles: Junior Developer</li>
-    <li>srcrip:      Junior Developer</li></ul>
 
 <p><b>GitHub repository</b>: <a href="https://github.com/DungeonCrawl-org/DungeonCrawlChili" target="_blank">github.com/DungeonCrawl-org/DungeonCrawlChili</a></p>
-<p>Download at: Not available yet</p>
-<p>Chili Wiki available @ <a href="http://wiki.dungeoncrawlchili.org" target="_blank">wiki.dungeoncrawlchili.org</a>
-<p>Stats pages for DC Chili: Coming in July or August most likely</p>
+<p>Downloads at: <a href="downloads.php" target="_blank">/downloads</a></p>
+<p>Stats pages for DC Chili: <a href="http://stats.DungeonCrawlChili.org" target="_blank">stats.DungeonCrawlChili.org</a></p>
+<p>Chili Wiki available @ <a href="http://wiki.dungeoncrawlchili.org" target="_blank">wiki.dungeoncrawlchili.org</a> - Currently under initial setup and development.
 
 <h2>Devs and graphics artists wanted!</h2>
 <p>If you are interested in helping out with the development of DC Chili, please join our <a href="https://discord.gg/gMnE5JFcB7" target="_blank">
