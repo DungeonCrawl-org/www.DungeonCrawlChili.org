@@ -32,7 +32,7 @@
 
 <h4>Miscelanious</h4>
 <ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
-    <li>The +6 Iskenderun Plasma Blade deals unresistable damage!</li>
+    <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
