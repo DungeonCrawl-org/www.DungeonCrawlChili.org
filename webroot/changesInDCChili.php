@@ -32,8 +32,9 @@
 
 <h4>Miscelanious</h4>
 <ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
+    <li>The +6 Iskenderun Plasma Blade deals unresistable damage!</li>
 </ul>
-    
+
 <h2>Already planned prior to CC Forks Tournament:</h2>
 <ul><li>Add special staircases leading to branch ends for branches that were shortened by 1. Re-use the special staircase for V:5 code for the other branches.</li>
     <li>Possibly some more imports from BCadren Crawl.</li>
