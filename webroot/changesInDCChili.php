@@ -43,7 +43,8 @@
 </ul>
 
 <h2>Suggestions to be considered:</h2>
-<ul><li>kuniqs — Remove the silence aura mutation, please.</li>
+<ul><li>kuniqs — Remove the silence aura mutation, please.<br>
+        rogga - make into a donut silence aura? ...where the player isn't affected.</li>
     <li>kuniqs — Friday, July 24, 2026 at 5:37 AM<br>
         Idea for a new mutation:<br>
         "You have large clown feet"<br>
