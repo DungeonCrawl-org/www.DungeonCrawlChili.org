@@ -6,16 +6,15 @@
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
 <h2>Implemented already:</h2>
-<h4>Floor and Branch Related</h4>
+<h4>Branch and Floor Related</h4>
 <ul><li>D:1 is mostly a forested open floor layout and has Jessica almost guaranteed.</li>
     <li>D:2 is has 4 different floors and Medusa is garanteed.</li>
-    <li>D:3 is BCadren's sewer.</li>
+    <li>D:3 is BCadren's sewer with Oskar almost guaranteed.</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor (except for Orcish Mines, the Elven Halls and Crypt).</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a higher spawn rate.</li>
 </ul>
 <h4>New or modified Uniques:</h4>
-<ul><li>A higher density of Uniques has been implemented in the Dungeon.</li>
-    <li>Jessica drops a book 50% of time with the Blink spell being included 50% of the time.</li>
+<ul><li>Jessica drops a book 50% of time with the Blink spell being included 50% of the time.</li>
     <li>Medusa, a naga with the Petrify spell, will always show up on D:2 close to the granite statues.
         Medusa on her own isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from the fountain.</li>
     <li>Oskar the Grump is a new D:3 unique that throws garbage bags at you.</li>
@@ -34,6 +33,7 @@
 <h4>Miscelanious</h4>
 <ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
     <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
+    <li>The XP value is shown in the monster's description.</li>
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
@@ -43,9 +43,7 @@
 </ul>
 
 <h2>Suggestions to be considered:</h2>
-<ul><li>kuniqs — Sunday, July 19, 2026 at 5:22 AM<br>
-        show xp values for monsters</li>
-    <li>kuniqs — Remove the silence aura mutation, please.</li>
+<ul><li>kuniqs — Remove the silence aura mutation, please.</li>
     <li>kuniqs — Friday, July 24, 2026 at 5:37 AM<br>
         Idea for a new mutation:<br>
         "You have large clown feet"<br>
