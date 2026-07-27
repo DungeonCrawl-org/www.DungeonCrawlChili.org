@@ -11,7 +11,7 @@
     <li>D:2 is has 4 different floors and Medusa is garanteed.</li>
     <li>D:3 is BCadren's sewer.</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor (except for Orcish Mines, the Elven Halls and Crypt).</li>
-    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques are more frequent to spawn.</li>
+    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a higher spawn rate.</li>
 </ul>
 <h4>New or modified Uniques:</h4>
 <ul><li>A higher density of Uniques has been implemented in the Dungeon.</li>
@@ -27,7 +27,8 @@
 
 <h4>Imported from BCadren Crawl</h4>
 <ul><li>The species Silent Specter was added.</li>
-    <li>Ported over the Maces and Flails "Leiomanos" found predominately in Shoals.</li>
+    <li>Ported over the Maces and Flails "Leiomanos" weapon found predominately in Shoals.</li>
+    <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
 </ul>
 
 <h4>Miscelanious</h4>
