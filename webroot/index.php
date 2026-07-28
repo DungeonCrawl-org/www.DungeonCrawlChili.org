@@ -25,6 +25,7 @@ with the goal of having a working beta version on the new DCF Webtiles server in
     <li>BCadren:     Lead Developer</li>
     <li>MrSquiggles: Developer</li>
     <li>Red Eye:     Junior Developer and Graphics Artist</li>
+    <li>kuniqs:      Tester</li>
 </ul>
 
 <p><b>GitHub repository</b>: <a href="https://github.com/DungeonCrawl-org/DungeonCrawlChili" target="_blank">github.com/DungeonCrawl-org/DungeonCrawlChili</a></p>
