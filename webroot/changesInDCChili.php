@@ -8,7 +8,7 @@
 <h2>Implemented already:</h2>
 <h4>Branch and Floor Related</h4>
 <ul><li>D:1 is mostly a forested open floor layout and has Jessica almost guaranteed.</li>
-    <li>D:2 is has 4 different floors and Medusa is garanteed.</li>
+    <li>D:2  has 4 different floors and Medusa is garanteed.</li>
     <li>D:3 is BCadren's sewer with Oskar almost guaranteed.</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor (except for Orcish Mines, the Elven Halls and Crypt).</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a mcuh higher spawn rate. (to be tested)</li>
