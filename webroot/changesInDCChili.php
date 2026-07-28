@@ -52,5 +52,6 @@
         "You have clown shoes instead of feet"<br>
         -(--) stealth, 3(4 5) base damage, kick trigger chance aux attack with 5% (10 15) chance to unresistably confuse the target for 1 (2 3) turns.
         3rd level prohibits footwear, works only without boots like the kick</li>
+    <li>Draconius — Monday, July 27, 2026 at 9:29 PM: Remove Malevolent Forces please lol</li>
 </ul>
 <?php require 'views/footer.php'; ?>
