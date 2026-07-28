@@ -7,12 +7,13 @@
 
 <h2>Implemented already:</h2>
 <h4>Branch and Floor Related</h4>
-<ul><li>D:1 is mostly a forested open floor layout and has Jessica almost guaranteed.</li>
+<ul><li>D:1 is mostly a forested semi-open floor layout and has Jessica almost guaranteed.</li>
     <li>D:2  has 4 different floors and Medusa is garanteed.</li>
     <li>D:3 is BCadren's sewer with Oskar almost guaranteed.</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor (except for Orcish Mines, the Elven Halls and Crypt).</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a mcuh higher spawn rate. (to be tested)</li>
 </ul>
+
 <h4>New or modified Uniques:</h4>
 <ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
         Jessica now drops a book 50% of time with the Blink spell being included 50% of the time.</li>
@@ -45,7 +46,7 @@
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
 <ul><li>Add special staircases leading to branch ends for branches that were shortened by 1. Re-use the special staircase for V:5 code for the other branches.</li>
-    <li>Possibly some more imports from BCadren Crawl.</li>
+    <li>Some more imports from BCadren Crawl.</li>
     <li>Other than the Dungeon, Uniques will possibly be worth a bit more XP if the power curve is too low from the reduced floor per branch.</li>
 </ul>
 
