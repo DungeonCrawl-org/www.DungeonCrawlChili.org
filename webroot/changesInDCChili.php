@@ -14,14 +14,19 @@
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a mcuh higher spawn rate. (to be tested)</li>
 </ul>
 <h4>New or modified Uniques:</h4>
-<ul><li>Jessica drops a book 50% of time with the Blink spell being included 50% of the time.</li>
+<ul><li>Jessica <img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
+        now drops a book 50% of time with the Blink spell being included 50% of the time.</li>
     <li>Medusa <img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/medusa.png">,
         a naga with the Petrify spell, will always show up on D:2 close to the granite statues.
         Medusa on her own isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from the fountain.</li>
-    <li>Oskar the Grump is a new D:3 unique that throws garbage bags at you.</li>
-    <li>Octavia the Heretic, an Octopode of Gozag can show up in Depths.</li>
-    <li>Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair.</li>
-    <li>Regal, an octopode with a cape, that was never added to DCSS over a year ago and was written by our own MrSquiggles.
+    <li>Oskar the Grump <img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/oskar.png">
+        is a new D:3 unique that throws garbage bags at you.</li>
+    <li>Octavia the Heretic <img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">, 
+        an Octopode of Gozag can show up in Depths.</li>
+    <li>Verity the Stone Dragon <img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/verity.png">
+        has the Stone Arrow spell and shows up in the Lair.</li>
+    <li>Regal <img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">, 
+        an octopode with a cape, that was never added to DCSS over a year ago and was written by our own MrSquiggles.
         Regal can show up somewhere in Vaults, Depths, Crypt or Zot.</li>
 </ul>
 
