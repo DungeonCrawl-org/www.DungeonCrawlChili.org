@@ -42,6 +42,10 @@
     <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
     <li>The XP value is shown in the monster's description.</li>
     <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
+    <li>A mutation set rework for: Black Mark<br>
+        Tier 1: Hex enchancer @ 20% (unchanged);<br>
+        Tier 2: Procs 50% up from 20%;<br>
+        Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
