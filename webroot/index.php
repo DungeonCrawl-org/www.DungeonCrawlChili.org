@@ -14,7 +14,10 @@
 
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the new DCF Webtiles server in time for the CCForksT in August 2026.
-<p>See: <a href="https://dcf.dungeoncrawlforks.org/" target="_blank">dcf.dungeoncrawlforks.org</a> to play the latest changes.</p>
+<p>You can play on the following Webtiles servers with the latest changes:</p>
+<ul><li><a href="https://dcf.dungeoncrawlforks.org/" target="_blank">dcf.dungeoncrawlforks.org</a> aka DC Fajita</li>
+    <li><a href="https://dct.dungeoncrawlforks.org/" target="_blank">dct.dungeoncrawlforks.org</a> aka DC Tapas</li>
+</ul>
 <p>or go to <a href="/downloads.php">/downloads</a> to play locally.</p>
 
 <h3>List of current and planned changes:</h3>
