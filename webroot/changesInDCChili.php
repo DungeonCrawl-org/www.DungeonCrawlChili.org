@@ -46,6 +46,7 @@
         Tier 1: Hex enchancer @ 20% (unchanged);<br>
         Tier 2: Procs 50% up from 20%;<br>
         Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
+    <li>Removed Malevolent Forces.</li>
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
@@ -63,6 +64,5 @@
         -(--) stealth, 3(4 5) base damage, kick trigger chance aux attack with 5% (10 15) chance to unresistably confuse the target for 1 (2 3) turns.
         3rd level prohibits footwear, works only without boots like the kick<br>
         rogga - add the throw pie from killer klowns?</li>
-    <li>Draconius — Monday, July 27, 2026 at 9:29 PM: Remove Malevolent Forces please lol</li>
 </ul>
 <?php require 'views/footer.php'; ?>
