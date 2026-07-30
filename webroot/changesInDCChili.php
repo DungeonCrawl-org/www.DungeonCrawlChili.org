@@ -22,10 +22,12 @@
         Medusa on her own isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from the fountain.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/oskar.png">
         Oskar the Grump is a new D:3 unique that throws garbage bags at you.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
-        Octavia the Heretic is an Octopode of Gozag that can show up in Depths.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/rusk.png">
+        Rusk is a Death Yak who can tample and with a possy of Yaks that he can drive into a frenzy. It shows up in the Lair.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/verity.png">
         Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
+        Octavia the Heretic is an Octopode of Gozag that can show up in Depths.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
         Regal, an octopode with a cape, that was never added to DCSS over a year ago and was written by our own MrSquiggles.
         Regal can show up somewhere in Vaults, Depths, Crypt or Zot.</li>
