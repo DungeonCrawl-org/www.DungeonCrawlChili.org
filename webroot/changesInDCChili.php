@@ -57,7 +57,7 @@
 
 <h2>Suggestions to be considered:</h2>
 <ul><li>rogga - allow Formicids to wear hats.</li>
-    <li>rogga - allow Felids to wear boots.</li>
+    <li>rogga - allow Felids to wear hat and boots. And create a new unique: Katinhat</li>
     <li>rogga - allow Octopodes to wear cloaks and a helmet</li>
     <li>kuniqs — Friday, July 24, 2026 at 5:37 AM<br>
         Idea for a new mutation:<br>
