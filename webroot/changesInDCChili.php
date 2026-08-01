@@ -11,7 +11,7 @@
     <li>D:2  has 4 different floors and Medusa is garanteed.</li>
     <li>D:3 is BCadren's sewer with Oskar almost guaranteed.</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor (except for Orcish Mines, the Elven Halls and Crypt).</li>
-    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a mcuh higher spawn rate. (to be tested)</li>
+    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate. (to be tested)</li>
 </ul>
 
 <h4>New or modified Uniques:</h4>
@@ -52,9 +52,7 @@
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
-<ul><li>Add special staircases leading to branch ends for branches that were shortened by 1. Re-use the special staircase for V:5 code for the other branches.</li>
-    <li>Some more imports from BCadren Crawl.</li>
-    <li>Other than the Dungeon, Uniques will possibly be worth a bit more XP if the power curve is too low from the reduced floor per branch.</li>
+<ul><li>Some more imports from BCadren Crawl.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
