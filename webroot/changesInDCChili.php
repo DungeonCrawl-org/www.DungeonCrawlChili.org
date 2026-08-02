@@ -53,6 +53,10 @@
         Tier 2: Procs 50% up from 20%;<br>
         Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
     <li>Removed Malevolent Forces.</li>
+    <li>Allow Formicids and Tengus to wear hats.</li>
+    <li>Allow Felids to wear hat and boots.</li>
+    <li>Allow Octopodes to wear scarves and a hat.</li>
+
 </ul>
 
 <h2>Already planned prior to CC Forks Tournament:</h2>
@@ -60,10 +64,7 @@
 </ul>
 
 <h2>Suggestions to be considered:</h2>
-<ul><li>rogga - allow Formicids and Tengus to wear hats.</li>
-    <li>rogga - allow Felids to wear hat and boots.</li>
-    <li>rogga - allow Octopodes to wear cloaks and a helmet or hat.</li>
-    <li>kuniqs — Friday, July 24, 2026 at 5:37 AM<br>
+<ul><li>kuniqs — Friday, July 24, 2026 at 5:37 AM<br>
         Idea for a new mutation:<br>
         "You have large clown feet"<br>
         "You have clown-like feet"<br>
