@@ -4,13 +4,10 @@
 <h2>DC Chili is a Dungeon Crawl fork based on the Stone Soup (DCSS) fork v0.35 trunk</h2>
 
 <img src="/img/title_banner/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Want your logo here? Contact RoGGa to have your logo featured here.">
-<p>It will include significant content from BCadren Crawl to be imported between June and August 2026 along with:</p>
-1. A big rework of the first 3 floors to include:
-<ul><li>On D:1, a randomly generated forested floor with Jessica almost always spawning;</li>
-    <li>On D:2, 4 possible vaults of a castle with Medusa always spawning;</li>
-    <li>On D:3, BCadren's Sewer floor.</li></ul>
-<p>2. Many more Uniques (new and modified) are planned or have already been implemented; and</p>
-<p>3. Most branches have been pruned by one floor (except for the Orcish Mines, the Elven Halls and Crypts)</p>
+<p>It includes content from BCadren Crawl to be imported between June and August 2026 along with:</p>
+<p>1. A big rework of the first 4 floors;</p>
+<p>2. Many more Uniques and a higher spawn rate; and</p>
+<p>3. Most branches have been pruned by one floor, except for the Orcish Mines, the Elven Halls and Crypts.</p>
 
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the new DCF Webtiles server in time for the CCForksT in August 2026.
@@ -27,7 +24,7 @@ with the goal of having a working beta version on the new DCF Webtiles server in
 <ul><li>RoGGa: Project Manager and Developer</li>
     <li>BCadren:     Lead Developer</li>
     <li>MrSquiggles: Developer</li>
-    <li>Red Eye:     Junior Developer and Graphics Artist</li>
+    <li>Red Eye:     Developer and Graphics Artist</li>
     <li>kuniqs:      Tester</li>
 </ul>
 
