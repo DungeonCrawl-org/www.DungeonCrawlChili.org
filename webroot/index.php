@@ -5,10 +5,10 @@
 
 <img src="/img/title_banner/DungeonCrawlChiliOrg-YourLogoHere.gif" height=256 style="float:right" title="Want your logo here? Contact RoGGa to have your logo featured here.">
 <p>It includes content from BCadren Crawl to be imported between June and August 2026 along with:</p>
-<p>1. A big rework of the first 4 floors;</p>
-<p>2. Many more Uniques and a higher spawn rate; and</p>
-<p>3. Most branches have been pruned by one floor, except for the Orcish Mines, the Elven Halls and Crypts.</p>
-
+<ol><li>A big rework of the first 4 floors;</li>
+    <li>2. Many more Uniques and a higher spawn rate; and</li>
+    <li>3. Most branches have been pruned by one floor, except for the Orcish Mines, the Elven Halls and Crypts.</li>
+</ol>
 <h3>The fork was launched in: <b>June 2026</b></h3>
 with the goal of having a working beta version on the new DCF Webtiles server in time for the CCForksT in August 2026.
 <p>You can play on the following Webtiles servers with the latest changes:</p>
