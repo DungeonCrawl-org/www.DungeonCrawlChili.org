@@ -8,12 +8,12 @@
 <h2>Implemented already:</h2>
 <h4>Branch and Floor Related</h4>
 <ul><li>D:1 is mostly a forested semi-open floor layout and has Jessica almost guaranteed.</li>
-    <li>D:2  has 4 different floors and Medusa is garanteed.</li>
+    <li>D:2 has 4 different floor layouts with a castle and Medusa is garanteed.</li>
     <li>D:3 is BCadren's sewer with Oskar almost guaranteed. The DCSS Sewer branch has been removed.</li>
     <li>D:4 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
-    <li>Lair:1 has a central zoo/nature preserve with 5 rooms with each on having animals of the same genus.</li>
+    <li>Lair:1 has a central zoo/nature preserve with 5 rooms with each one having animals of the same genus.</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
-    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate.</li>
+    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game.</li>
 </ul>
 
 <h4>New or modified Uniques:</h4>
