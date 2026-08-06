@@ -8,7 +8,7 @@
 <h2>Implemented already:</h2>
 <h4>Branch and Floor Related</h4>
 <ul><li>D:1 is mostly a forested semi-open floor layout and has Jessica almost guaranteed.</li>
-    <li>D:2 has 4 different floor layouts with a castle and Medusa is garanteed.</li>
+    <li>D:2 has 4 different floor layouts with a castle and Medusa is guaranteed.</li>
     <li>D:3 is BCadren's sewer with Oskar almost guaranteed. The DCSS Sewer branch has been removed.</li>
     <li>D:4 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
     <li>Lair:1 has a central zoo/nature preserve with 5 rooms with each one having animals of the same genus.</li>
@@ -27,7 +27,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/rusk.png">
         Rusk is a Death Yak who can trample and with a posse of Yaks that it can drive into a frenzy. It shows up in the Lair.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/aluizolt.png">
-        Aluizotl is an otter type of creature with a grabbing appendage at the end of its tail. (Built on Aztek mythology)</li> 
+        Aluizotl is an otter type of creature with a grabbing appendage at the end of its tail. (Built on Aztec mythology)</li> 
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/monkey_king.png">
         Monkey King is ...well... the King of the howler monkeys, and he can mark you.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/katinboo.png">
@@ -53,13 +53,14 @@
     <li>The XP value is shown in the monster's description.</li>
     <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
     <li>A mutation set rework for: Black Mark<br>
-        Tier 1: Hex enchancer @ 20% (unchanged);<br>
+        Tier 1: Hex enhancer @ 20% (unchanged);<br>
         Tier 2: Procs 50% up from 20%;<br>
         Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
     <li>Removed Malevolent Forces.</li>
     <li>Allow Formicids and Tengus to wear hats.</li>
     <li>Allow Felids to wear hat and boots.</li>
     <li>Allow Octopodes to wear scarves and a hat.</li>
+    <li>Removed random blink when monsters go invisible.</li>
 
 </ul>
 
