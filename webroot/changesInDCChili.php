@@ -1,14 +1,14 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of August 3rd @ 1:30pm Eastern time</p>
+<p>As of August 8 @ 2:30pm Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
 <h2>Implemented already:</h2>
 <h4>Branch and Floor Related</h4>
 <ul><li>D:1 is mostly a forested semi-open floor layout and has Jessica almost guaranteed.</li>
-    <li>D:2 has 4 different floor layouts with a castle and Medusa is guaranteed.</li>
+    <li>D:2 has 8 different floor layouts with a castle, and Medusa is guaranteed.</li>
     <li>D:3 is BCadren's sewer with Oskar almost guaranteed. The DCSS Sewer branch has been removed.</li>
     <li>D:4 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
     <li>Lair:1 has a central zoo/nature preserve with 5 rooms with each one having animals of the same genus.</li>
@@ -61,6 +61,7 @@
     <li>Allow Felids to wear hat and boots.</li>
     <li>Allow Octopodes to wear scarves and a hat.</li>
     <li>Removed random blink when monsters go invisible.</li>
+    <li>Added a level 7 spell: Corrosive Blob.</li>
 
 </ul>
 
