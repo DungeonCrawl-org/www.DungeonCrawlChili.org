@@ -11,6 +11,7 @@
     <li>D:2 has 8 different floor layouts with a castle, and Medusa is guaranteed.</li>
     <li>D:3 is BCadren's sewer with Oskar almost guaranteed. The DCSS Sewer branch has been removed.</li>
     <li>D:4 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
+    <li>D:6 has a hot & cold theme.</li>
     <li>Lair:1 has a central zoo/nature preserve with 5 rooms with each one having animals of the same genus.</li>
     <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game.</li>
