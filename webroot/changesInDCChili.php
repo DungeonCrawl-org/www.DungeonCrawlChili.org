@@ -1,7 +1,7 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of August 8 @ 2:30pm Eastern time</p>
+<p>As of August 8 @ 4:00am Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
