@@ -48,7 +48,7 @@
     <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
 </ul>
 
-<h4>Miscelanious</h4>
+<h4>Miscellanious</h4>
 <ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
     <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
     <li>The XP value is shown in the monster's description.</li>
@@ -63,6 +63,7 @@
     <li>Allow Octopodes to wear scarves and a hat.</li>
     <li>Removed random blink when monsters go invisible.</li>
     <li>Added a level 7 spell: Corrosive Blob.</li>
+    <li>Readded staves of summoning that heal your allies</li>
 
 </ul>
 
