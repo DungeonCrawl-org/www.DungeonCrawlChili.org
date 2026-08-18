@@ -27,8 +27,6 @@
         Oskar the Grump is a new D:3 unique that throws garbage bags at you.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/rusk.png">
         Rusk is a Death Yak who can trample and with a posse of Yaks that it can drive into a frenzy. It shows up in the Lair.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/aluizolt.png">
-        Aluizotl is an otter type of creature with a grabbing appendage at the end of its tail. (Built on Aztec mythology)</li> 
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/monkey_king.png">
         Monkey King is ...well... the King of the howler monkeys, and he can mark you.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/katinboo.png">
@@ -38,8 +36,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
         Octavia the Heretic is an Octopode of Gozag that can show up in Depths.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
-        Regal, an octopode with a cape, that was never added to DCSS over a year ago and was written by our own MrSquiggles.
-        Regal can show up somewhere in Vaults, Depths, Crypt or Zot.</li>
+        Regal, an octopode with a cape, can show up in Depths, Crypt or Zot.</li> 
 </ul>
 
 <h4>Imported from BCadren Crawl</h4>
@@ -48,6 +45,7 @@
     <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
     <li>Potions of beneficial mutation have been added.</li>
     <li>Potions of gain strength, dexterity, and intelligence have been added.</li>
+    <li>Scrolls of bess item have been added</li>
 </ul>
 
 <h4>Miscellanious</h4>
