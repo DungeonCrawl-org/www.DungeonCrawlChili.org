@@ -45,7 +45,7 @@
     <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
     <li>Potions of beneficial mutation have been added.</li>
     <li>Potions of gain strength, dexterity, and intelligence have been added.</li>
-    <li>Scrolls of bess item have been added</li>
+    <li>Scrolls of bless item have been added</li>
 </ul>
 
 <h4>Miscellanious</h4>
