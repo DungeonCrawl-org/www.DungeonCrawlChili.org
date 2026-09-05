@@ -66,19 +66,4 @@
     <li>Readded staves of summoning that heal your allies</li>
 
 </ul>
-
-<h2>Already planned prior to CC Forks Tournament:</h2>
-<ul><li>Some more imports from BCadren Crawl.</li>
-</ul>
-
-<h2>Suggestions to be considered:</h2>
-<ul><li>kuniqs — Friday, July 24, 2026 at 5:37 AM<br>
-        Idea for a new mutation:<br>
-        "You have large clown feet"<br>
-        "You have clown-like feet"<br>
-        "You have clown shoes instead of feet"<br>
-        -(--) stealth, 3(4 5) base damage, kick trigger chance aux attack with 5% (10 15) chance to unresistably confuse the target for 1 (2 3) turns.
-        3rd level prohibits footwear, works only without boots like the kick<br>
-        rogga - add the throw pie from killer klowns?</li>
-</ul>
 <?php require 'views/footer.php'; ?>
