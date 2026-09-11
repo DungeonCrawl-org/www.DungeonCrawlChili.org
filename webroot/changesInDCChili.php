@@ -1,7 +1,7 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of Sept 5 @ 10:00am Eastern time</p>
+<p>As of Sept 11 @ 4:00pm Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
@@ -54,7 +54,7 @@
     <li>The XP value is shown in the monster's description.</li>
     <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
     <li>A mutation set rework for: Black Mark<br>
-        Tier 1: Hex enhancer @ 20% (unchanged);<br>
+        Tier 1: Devilish stinger aux attack;<br>
         Tier 2: Procs 50% up from 20%;<br>
         Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
     <li>Removed Malevolent Forces.</li>
@@ -65,5 +65,9 @@
     <li>Added a level 7 spell: Corrosive Blob.</li>
     <li>Readded staves of summoning that heal your allies</li>
 
+</ul>
+
+<h2>Suggestions to be considered:</h2>
+<ul><li>Visit us in Discord to discuss ideas and provide feedback! </li>
 </ul>
 <?php require 'views/footer.php'; ?>
