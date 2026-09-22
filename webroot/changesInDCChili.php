@@ -1,7 +1,7 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of Sept 11 @ 4:00pm Eastern time</p>
+<p>As of Sept 22 @ 10:00am Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
@@ -49,7 +49,8 @@
 </ul>
 
 <h4>Miscellanious</h4>
-<ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
+<ul><li>The drop rate for Artefacts has been doubled.</li>
+    <li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
     <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
     <li>The XP value is shown in the monster's description.</li>
     <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
