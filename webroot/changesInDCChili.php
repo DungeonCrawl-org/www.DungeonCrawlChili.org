@@ -26,7 +26,7 @@
     <li>D:5 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
     <li>D:6 has a hot & cold theme with 4 central vaults.</li>
     <li>D:7 has a central abandoned nature reserve with 3 different central vaults.</li>
-    <li>Out of Depths monsters hfor the Dungeon has been reduced from 7% to 3%.</li>
+    <li>Out of Depths monsters for the Dungeon has been reduced from 7% to 3%.</li>
 </ul>
 
 <h4>New or modified Uniques:</h4>
@@ -58,12 +58,11 @@
     <li>Potions of beneficial mutation have been added.</li>
     <li>Potions of gain strength, dexterity, and intelligence have been added.</li>
     <li>Scrolls of bless item have been added</li>
+    <li>Readded staves of summoning that heal your allies</li>
 </ul>
 
 <h4>Minor Changes</h4>
-<ul><li>Scrolls and potions are already identified.</li>
-    <li>The drop rate for Artefacts has been doubled.</li>
-    <li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
+<ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
     <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
     <li>The XP value is shown in the monster's description.</li>
     <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
@@ -71,14 +70,11 @@
         Tier 1: Devilish stinger aux attack;<br>
         Tier 2: Procs 50% up from 20%;<br>
         Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
-    <li>Removed Malevolent Forces.</li>
-    <li>Allow Formicids and Tengus to wear hats.</li>
-    <li>Allow Felids to wear hat and boots.</li>
-    <li>Allow Octopodes to wear scarves and a hat.</li>
+    <li>Formicids and Tengus can wear a hat.</li>
+    <li>Felids can wear a hat and boots.</li>
+    <li>Octopodes can wear scarves.</li>
     <li>Removed random blink when monsters go invisible.</li>
     <li>Added a level 7 spell: Corrosive Blob.</li>
-    <li>Readded staves of summoning that heal your allies</li>
-
 </ul>
 
 <h2>Suggestions to be considered:</h2>
