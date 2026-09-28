@@ -1,7 +1,7 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of Sept 27 @ 8:00pm Eastern time</p>
+<p>As of Sept 28 @ 2:00pm Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
@@ -11,11 +11,13 @@
 <ul><li>Scrolls and potions are already identified.</li>
     <li>The drop rate for Artefacts has been doubled.</li>
     <li>Malevelant forces have been removed.</li>
+    <li>Character creation only shows recommended backgrounds after the species was chosen. It is still possible to make any combo when selecting the backgrond first.</li>
 </ul>
 
 <h4>Branch Related</h4>
 <ul><li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
-    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game.</li>
+    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game and 
+        XP on kills has been increase by 5%.</li>
 </ul>
 
 <h4>Dungeon Floor Related</h4>
