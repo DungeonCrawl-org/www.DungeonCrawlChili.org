@@ -33,10 +33,10 @@
 <ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
         Jessica now drops a book 50% of time with the Blink spell being included 50% of the time.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/medusa.png">
-        Medusa, a naga with the Petrify spell, will always show up on D:2 close to the granite statues.
-        Medusa on her own isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from the fountain.</li>
+        Medusa, a naga with the Petrify spell, will always show up on D:3 close to the granite statues.
+        On her own, she isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from a fountain.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/oskar.png">
-        Oskar the Grump is a new D:3 unique that throws garbage bags at you.</li>
+        Oskar the Grump is a new D:4 unique that throws garbage bags at you.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/rusk.png">
         Rusk is a Death Yak who can trample and with a posse of Yaks that it can drive into a frenzy. It shows up in the Lair.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/monkey_king.png">
