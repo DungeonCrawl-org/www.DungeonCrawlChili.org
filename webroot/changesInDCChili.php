@@ -1,20 +1,32 @@
 <?php require 'views/header.php'; ?> 
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
-<p>As of Sept 22 @ 10:00am Eastern time</p>
+<p>As of Sept 27 @ 8:00pm Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
 <h2>Implemented already:</h2>
-<h4>Branch and Floor Related</h4>
-<ul><li>D:1 is mostly a forested semi-open floor layout and has Jessica almost guaranteed.</li>
-    <li>D:2 has 8 different floor layouts with a castle, and Medusa is guaranteed.</li>
-    <li>D:3 is BCadren's sewer with Oskar almost guaranteed. The DCSS Sewer branch has been removed.</li>
-    <li>D:4 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
-    <li>D:6 has a hot & cold theme with 4 central vaults.</li>
-    <li>Lair:1 has a central abandoned zoo/nature preserve with 3 different central vaults.</li>
-    <li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
+
+<h4>Important changes</h4>
+<ul><li>Scrolls and potions are already identified.</li>
+    <li>The drop rate for Artefacts has been doubled.</li>
+    <li>Malevelant forces have been removed.</li>
+</ul>
+
+<h4>Branch Related</h4>
+<ul><li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game.</li>
+</ul>
+
+<h4>Dungeon Floor Related</h4>
+<ul><li>D:1 is mostly a forested semi-open floor layout, and has a faded altar and a basic shop to spend the 270 gold you start with.</li>
+    <li>D:2 is mostly a forested semi-open floor layout with many currupted trees and has Jessica almost guaranteed and at least 2 altars.</li>
+    <li>D:3 has 8 different floor layouts with a castle, and Medusa is guaranteed.</li>
+    <li>D:4 is BCadren's sewer with Oskar almost guaranteed. The DCSS Sewer branch has been removed.</li>
+    <li>D:5 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
+    <li>D:6 has a hot & cold theme with 4 central vaults.</li>
+    <li>D:7 has a central abandoned nature reserve with 3 different central vaults.</li>
+    <li>Out of Depths monsters hfor the Dungeon has been reduced from 7% to 3%.</li>
 </ul>
 
 <h4>New or modified Uniques:</h4>
@@ -48,8 +60,9 @@
     <li>Scrolls of bless item have been added</li>
 </ul>
 
-<h4>Miscellanious</h4>
-<ul><li>The drop rate for Artefacts has been doubled.</li>
+<h4>Minor Changes</h4>
+<ul><li>Scrolls and potions are already identified.</li>
+    <li>The drop rate for Artefacts has been doubled.</li>
     <li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
     <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
     <li>The XP value is shown in the monster's description.</li>
