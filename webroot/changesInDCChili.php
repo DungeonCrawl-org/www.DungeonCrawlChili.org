@@ -18,16 +18,16 @@
 <h4>Branch Related</h4>
 <ul><li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game and 
-        XP on kills has been increase by 5%.</li>
+        XP on kills has been increase by 10%.</li>
 </ul>
 
 <h4>Dungeon Floor Related</h4>
-<ul><li>D:1 is mostly a forested semi-open floor layout, and has a faded altar and a basic shop to spend the 270 gold you start with.</li>
-    <li>D:2 is mostly a forested semi-open floor layout with many currupted trees and has Jessica almost guaranteed and at least 2 altars.</li>
-    <li>D:3 has 8 different floor layouts with a castle, and Medusa is guaranteed.</li>
+<ul><li>D:1 is mostly a forested semi-open floor layout, and has a guaranteed faded altar and a basic shop to spend the 270 gold you start with.</li>
+    <li>D:2 is mostly a forested semi-open floor layout with dead trees and has Jessica almost guaranteed and at least 2 altars.</li>
+    <li>D:3 is mostly a forested semi-open floor layout with corrupted trees and has 8 different possible floor layouts with a castle, and Medusa is guaranteed.</li>
     <li>D:4 is BCadren's sewer with Oskar almost guaranteed. The DCSS Sewer branch has been removed.</li>
     <li>D:5 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
-    <li>D:6 has a hot & cold theme with 4 central vaults.</li>
+    <li>D:6 has a hot & cold theme with 4 different central vaults.</li>
     <li>D:7 has a central abandoned nature reserve with 3 different central vaults.</li>
     <li>Out of Depths monsters for the Dungeon has been reduced from 7% to 3%.</li>
 </ul>
@@ -60,8 +60,8 @@
     <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
     <li>Potions of beneficial mutation have been added.</li>
     <li>Potions of gain strength, dexterity, and intelligence have been added.</li>
-    <li>Scrolls of bless item have been added</li>
-    <li>Readded staves of summoning that heal your allies</li>
+    <li>Scrolls of bless item have been added, while Scroll of Brand Weapon have been removed.</li>
+    <li>Readded staves of summoning that heal your allies.</li>
 </ul>
 
 <h4>Minor Changes</h4>
@@ -78,6 +78,8 @@
     <li>Octopodes can wear scarves.</li>
     <li>Removed random blink when monsters go invisible.</li>
     <li>Added a level 7 spell: Corrosive Blob.</li>
+    <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>
+    <li>Potions of Moonshine have been removed.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
