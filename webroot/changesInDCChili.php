@@ -66,7 +66,8 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/maurice.png">
         Maurice can drop a scroll of acquirement.</li>
 </ul>
-<p>Note: All DCSS uniques will be dropping an item 50% of the time when killed. If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.</p>
+<p>NOTE: For the DC Chili v1.0 release, all DCSS uniques will be dropping an item 50% of the time when killed. 
+         If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.</p>
 
 <h4>Imported from BCadren Crawl</h4>
 <ul><li>The species Silent Specter was added.</li>
