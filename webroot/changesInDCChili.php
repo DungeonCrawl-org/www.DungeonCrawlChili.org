@@ -43,7 +43,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/monkey_king.png">
         Monkey King is ...well... the King of the howler monkeys, and he can mark you.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/katinboo.png">
-        Katinboo is a Felid with curare claws that can summon an ogre and a stubborn mule.</li>
+        Katinboo is a Felid with curare claws that can summon an ogre and a stubborn mule. She is a resident of the Lair.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/verity.png">
         Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
@@ -58,7 +58,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/fannar.png">
         Fannar can drop a small spellbook with Summon Ice Beast.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/grinder.png">
-        Grinder can drop a scroll of tourment.</li>
+        Grinder can drop a scroll of torment.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
         Jessica can drop a two-spell spellbook with the Blink spell being included 50% of the time.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/josephine.png">
