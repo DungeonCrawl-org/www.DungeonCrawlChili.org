@@ -32,10 +32,8 @@
     <li>Out of Depths monsters for the Dungeon has been reduced from 7% to 3%.</li>
 </ul>
 
-<h4>New or modified Uniques:</h4>
-<ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
-        Jessica now drops a book 50% of time with the Blink spell being included 50% of the time.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/medusa.png">
+<h4>New Uniques:</h4>
+<ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/medusa.png">
         Medusa, a naga with the Petrify spell, will always show up on D:3 close to the granite statues.
         On her own, she isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from a fountain.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/oskar.png">
@@ -52,6 +50,13 @@
         Octavia the Heretic is an Octopode of Gozag that can show up in Depths.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
         Regal, an octopode with a cape, can show up in Depths, Crypt or Zot.</li> 
+</ul>
+
+<h4>Modified DCSS Uniques: with a 50% chance of dropping an item when killed!</h4>
+<ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
+        Jessica can drop a two spell book with the Blink spell being included 50% of the time.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/eustachio.png">
+        Eustachio can drop a small spellbook with summoning spelss.</li>
 </ul>
 
 <h4>Imported from BCadren Crawl</h4>
@@ -82,6 +87,7 @@
     <li>Potions of Moonshine have been removed.</li>
     <li>Gem counter has been set to the same as DCSS even though most of those branches have 1 less floor.</li>
     <li>The Tiles main menu has been totally reworked.</li>
+    <li>For the Tiles version, the window is maximised by default, and on Windows and Linux, the F11 key can be used to enter a borderless full screen view.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
