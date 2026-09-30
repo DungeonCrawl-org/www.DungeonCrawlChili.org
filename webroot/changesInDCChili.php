@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Sept 29 @ 5:00pm Eastern time</p>
+<p>As of Sept 30 @ 10:00am Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
