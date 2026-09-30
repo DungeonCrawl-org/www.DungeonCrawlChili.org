@@ -32,7 +32,7 @@
     <li>Out of Depths monsters for the Dungeon has been reduced from 7% to 3%.</li>
 </ul>
 
-<h4>New Uniques:</h4>
+<h4>New Uniques:  with a 50% chance of dropping an item when killed!</h4>
 <ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/medusa.png">
         Medusa, a naga with the Petrify spell, will always show up on D:3 close to the granite statues.
         On her own, she isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from a fountain.</li>
@@ -66,6 +66,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/maurice.png">
         Maurice can drop a scroll of acquirement.</li>
 </ul>
+<p>Note: All DCSS uniques will be dropping an item 50% of the time when killed. If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.</p>
 
 <h4>Imported from BCadren Crawl</h4>
 <ul><li>The species Silent Specter was added.</li>
