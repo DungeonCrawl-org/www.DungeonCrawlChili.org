@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Sept 30 @ 10:00am Eastern time</p>
+<p>As of Sept 30 @ 17:30pm Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
@@ -53,10 +53,18 @@
 </ul>
 
 <h4>Modified DCSS Uniques: with a 50% chance of dropping an item when killed!</h4>
-<ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
-        Jessica can drop a two spell book with the Blink spell being included 50% of the time.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/eustachio.png">
-        Eustachio can drop a small spellbook with summoning spelss.</li>
+<ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/eustachio.png">
+        Eustachio can drop a small spellbook with summoning spells.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/fannar.png">
+        Fannar can drop a small spellbook with Summon Ice Beast.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/grinder.png">
+        Grinder can drop a scroll of tourment.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
+        Jessica can drop a two-spell spellbook with the Blink spell being included 50% of the time.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/josephine.png">
+        Josephine can drop a small spellbook with Necromancy spells.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/maurice.png">
+        Maurice can drop a scroll of acquirement.</li>
 </ul>
 
 <h4>Imported from BCadren Crawl</h4>
