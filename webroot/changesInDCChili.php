@@ -80,6 +80,8 @@
     <li>Added a level 7 spell: Corrosive Blob.</li>
     <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>
     <li>Potions of Moonshine have been removed.</li>
+    <li>Gem counter has been set to the same as DCSS even though most of those branches have 1 less floor.</li>
+    <li>The Tiles main menu has been totally reworked.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
