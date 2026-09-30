@@ -17,7 +17,8 @@
 and was featured in the Crawl Cosplay Forks Tournament in August 2026.
 <p>You can play on the following Webtiles servers with the latest changes:</p>
 <ul><li><a href="https://dcf.dungeoncrawlforks.org/" target="_blank">dcf.dungeoncrawlforks.org</a> (aka DC Fajita): Ontario, Canada</li>
-    <li><a href="https://crawl.project357.org" target="_blank">crawl.project357.org</a> (aka CPO):                 Sydney, Australia</li>
+    <li><a href="https://crawl.xtahua.com/" target="_blank">crawl.xtahua.com</a> (aka CXC):                         Paris, France</li>
+    <li><a href="https://crawl.project357.org" target="_blank">crawl.project357.org</a> (aka CPO):                  Sydney, Australia</li>
 </ul>
 <p>or go to <a href="/downloads.php">/downloads</a> to play locally.</p>
 
