@@ -66,6 +66,10 @@
         Josephine can drop a small spellbook with Necromancy spells.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/maurice.png">
         Maurice can drop a scroll of acquirement.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/menkaure.png">
+        Menkaure can drop a scroll of torment.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/sigmund.png">
+        Sigmund can drop a scroll of bless item.</li>
 </ul>
 <p>NOTE: For the DC Chili v1.0 release, all DCSS uniques will be dropping an item 50% of the time when killed. 
          If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.</p>
