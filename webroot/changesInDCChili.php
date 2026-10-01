@@ -47,6 +47,8 @@
         Katinboo is a Felid with curare claws that can summon an ogre and a stubborn mule. She is a resident of the Lair and can drop 3 curare darts.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/verity.png">
         Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair. It can drop a granite talisman.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/peregrine.png">
+        Peregrine the Pilferer is an invisible kobold scavenger who prowls the Orcish Mines collecting any items.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
         Octavia the Heretic is an Octopode of Gozag that can show up in Depths, and can dopr gold when killed.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
