@@ -73,6 +73,7 @@
 </ul>
 <p>NOTE: For the DC Chili v1.0 release, all DCSS uniques will be dropping an item 50% of the time when killed. 
          If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.</p>
+<p>NOTE2: This list is not longer updated since more than 20 Uniques have already been programmed to drop something 50% of the time when killed.</p>
 
 <h4>Imported from BCadren Crawl</h4>
 <ul><li>The species Silent Specter was added.</li>
