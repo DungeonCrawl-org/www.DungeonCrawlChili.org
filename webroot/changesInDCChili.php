@@ -36,21 +36,21 @@
 <h4>New Uniques:  with a 50% chance of dropping an item when killed!</h4>
 <ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/medusa.png">
         Medusa, a naga with the Petrify spell, will always show up on D:3 close to the granite statues.
-        On her own, she isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from a fountain.</li>
+        On her own, she isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from a fountain. She can drop a Medusa talisman.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/oskar.png">
-        Oskar the Grump is a new D:4 unique that throws garbage bags at you.</li>
+        Oskar the Grump is a new D:4 unique that throws garbage bags at you. He can drop a potion of cancellation.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/rusk.png">
-        Rusk is a Death Yak who can trample and with a posse of Yaks that it can drive into a frenzy. It shows up in the Lair.</li>
+        Rusk is a Death Yak who can trample and with a posse of Yaks that it can drive into a frenzy. It shows up in the Lair, and it can drop a potion of might.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/monkey_king.png">
-        Monkey King is ...well... the King of the howler monkeys, and he can mark you.</li>
+        Monkey King is ...well... the King of the howler monkeys, and he can mark you. He can drop a scroll of summoning.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/katinboo.png">
-        Katinboo is a Felid with curare claws that can summon an ogre and a stubborn mule. She is a resident of the Lair.</li>
+        Katinboo is a Felid with curare claws that can summon an ogre and a stubborn mule. She is a resident of the Lair and can drop 3 curare darts.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/verity.png">
-        Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair.</li>
+        Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair. It can drop a granite talisman.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
-        Octavia the Heretic is an Octopode of Gozag that can show up in Depths.</li>
+        Octavia the Heretic is an Octopode of Gozag that can show up in Depths, and can dopr gold when killed.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
-        Regal, an octopode with a cape, can show up in Depths, Crypt or Zot.</li> 
+        Regal, an octopode with a cape, can show up in Depths, Crypt or Zot. It can drop an unrand trident or a ring.</li> 
 </ul>
 
 <h4>Modified DCSS Uniques: with a 50% chance of dropping an item when killed!</h4>
