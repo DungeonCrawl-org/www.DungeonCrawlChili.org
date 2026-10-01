@@ -53,6 +53,9 @@
         Octavia the Heretic is an Octopode of Gozag that can show up in Depths, and can dopr gold when killed.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
         Regal, an octopode with a cape, can show up in Depths, Crypt or Zot. It can drop an unrand trident or a ring.</li> 
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/scav.png">
+        Scave the Devourer of Slime can appear in Slime:1. He hunts down slimes to eat them in order to restore his health. 
+        He has taken you as a competitor and will likely attack you if you become the closest target.</li>
 </ul>
 
 <h4>Modified DCSS Uniques: with a 50% chance of dropping an item when killed!</h4>
