@@ -85,25 +85,30 @@
     <li>Readded staves of summoning that heal your allies.</li>
 </ul>
 
-<h4>Minor Changes</h4>
-<ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
-    <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
-    <li>The XP value is shown in the monster's description.</li>
+<h4>Minor Changes not documented in-game.</h4>
+<ul><li>The XP value is shown in the monster's description.</li>
     <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
     <li>A mutation set rework for: Black Mark<br>
         Tier 1: Devilish stinger aux attack;<br>
         Tier 2: Procs 50% up from 20%;<br>
         Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
+    <li>Removed random blink when monsters go invisible.</li>
+    <li>Potions of Moonshine have been removed.</li>
+    <li>Gem counter has been set to the same as DCSS even though most of those branches have 1 less floor.</li>
+    <li>The Tiles main menu has been reworked, and links to websites have been added.</li>
+    <li>For the Tiles version, the window is maximised by default, and on Windows and Linux, the F11 key can be used to enter a borderless full screen view.</li>
+</ul>
+
+<h4>Minor Changes not documented in-game.</h4>
+This list will be removed later on to reduce the size of this page.
+<ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
+    <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
     <li>Formicids and Tengus can wear a hat.</li>
     <li>Felids can wear a hat and boots.</li>
     <li>Octopodes can wear scarves.</li>
-    <li>Removed random blink when monsters go invisible.</li>
     <li>Added a level 7 spell: Corrosive Blob.</li>
-    <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>
-    <li>Potions of Moonshine have been removed.</li>
-    <li>Gem counter has been set to the same as DCSS even though most of those branches have 1 less floor.</li>
-    <li>The Tiles main menu has been totally reworked.</li>
-    <li>For the Tiles version, the window is maximised by default, and on Windows and Linux, the F11 key can be used to enter a borderless full screen view.</li>
+    <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>    
+
 </ul>
 
 <h2>Suggestions to be considered:</h2>
