@@ -99,6 +99,7 @@
     <li>Gem counter has been set to the same as DCSS even though most of those branches have 1 less floor.</li>
     <li>The Tiles main menu has been reworked, and links to websites have been added.</li>
     <li>For the Tiles version, the window is maximised by default, and on Windows and Linux, the F11 key can be used to enter a borderless full screen view.</li>
+    <li>The heavy brand has been replaced by vorpal.</li>
 </ul>
 
 <h4>Minor Changes not documented in-game.</h4>
@@ -109,8 +110,7 @@ This list will be removed later on to reduce the size of this page.
     <li>Felids can wear a hat and boots.</li>
     <li>Octopodes can wear scarves.</li>
     <li>Added a level 7 spell: Corrosive Blob.</li>
-    <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>    
-
+    <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
