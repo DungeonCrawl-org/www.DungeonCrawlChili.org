@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Sept 30 @ 19:30pm Eastern time</p>
+<p>As of Oct 1 @ 8am Eastern time</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
@@ -67,7 +67,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/maurice.png">
         Maurice can drop a scroll of acquirement.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/menkaure.png">
-        Menkaure can drop a scroll of torment.</li>
+        Menkaure can drop either a scroll of torment or a ring of positive energy.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/sigmund.png">
         Sigmund can drop a scroll of bless item.</li>
 </ul>
