@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Oct 1 @ 8am Eastern time</p>
+<p>As of Oct 2</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
@@ -74,7 +74,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/menkaure.png">
         Menkaure can drop either a scroll of torment or a ring of positive energy.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/sigmund.png">
-        Sigmund can drop a scroll of bless item.</li>
+        Sigmund can drop a scroll of bless item and no longer shows up on D:2.</li>
 </ul>
 <p>NOTE: For the DC Chili v1.0 release, all DCSS uniques will be dropping an item 50% of the time when killed. 
          If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.</p>
