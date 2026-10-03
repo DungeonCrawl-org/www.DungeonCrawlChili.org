@@ -115,6 +115,7 @@ This list will be removed later on to reduce the size of this page.
     <li>Octopodes can wear scarves.</li>
     <li>Added a level 7 spell: Corrosive Blob.</li>
     <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>
+    <li>Morgue's Message History section: now 100 lines long and includes -/+ HP values during battles.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
