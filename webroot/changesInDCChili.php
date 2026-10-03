@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Oct 2</p>
+<p>As of Oct 3</p>
 
 <pre>MASSIVE SPOILERS BELOW!</pre>
 
@@ -14,6 +14,7 @@
     <li>Malevelant forces have been removed.</li>
     <li>Character creation only shows recommended backgrounds after the species was chosen. It is still possible to make any combo when selecting the backgrond first.</li>
     <li>Uniques (DCSS existing or not) will have a brown text added to the unqiue's description starting with: "DC Chili change: ..." that describes the drop-on-kill happening 50% of the time.</li>
+    <li>Most uniques have a 5% chance of getting an artefact weapon, armour, ring or shield.</li>
 </ul>
 
 <h4>Branch Related</h4>
