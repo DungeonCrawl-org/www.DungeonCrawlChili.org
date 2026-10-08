@@ -12,13 +12,11 @@
 <ul><li>Scrolls and potions are already identified.</li>
     <li>The drop rate for Artefacts has been doubled.</li>
     <li>Malevelant forces have been removed.</li>
-    <li>Character creation only shows recommended backgrounds after the species was chosen. 
-        It is still possible to make any combo when selecting the backgrond first.</li>
     <li>Uniques (DCSS existing or not) have a brown text added to the unqiue's description starting with: 
         "DC Chili change: ..." that describes the drop-on-kill happening 50% of the time.</li>
          (If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.)</li>
     <li>Most uniques have a 5% chance of getting an artefact weapon, armour, jewellery or shield/orb.</li>
-    <li>In Webtiles, the items bar has been totally rework.</li>
+    <li>In Webtiles, the items bar has been totally rework and is vertical by default.</li>
 </ul>
 
 <h4>Branch Related</h4>
@@ -86,6 +84,8 @@
     <li>The Tiles main menu has been reworked, and links to websites have been added.</li>
     <li>For the Tiles version, the window is maximised by default, and on Windows and Linux, the F11 key can be used to enter a borderless full screen view.</li>
     <li>The heavy brand has been replaced by vorpal.</li>
+    <li>Character creation only shows recommended backgrounds after the species was chosen. 
+        It is still possible to make any combo when selecting the backgrond first.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
