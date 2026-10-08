@@ -12,9 +12,13 @@
 <ul><li>Scrolls and potions are already identified.</li>
     <li>The drop rate for Artefacts has been doubled.</li>
     <li>Malevelant forces have been removed.</li>
-    <li>Character creation only shows recommended backgrounds after the species was chosen. It is still possible to make any combo when selecting the backgrond first.</li>
-    <li>Uniques (DCSS existing or not) will have a brown text added to the unqiue's description starting with: "DC Chili change: ..." that describes the drop-on-kill happening 50% of the time.</li>
-    <li>Most uniques have a 5% chance of getting an artefact weapon, armour, ring or shield.</li>
+    <li>Character creation only shows recommended backgrounds after the species was chosen. 
+        It is still possible to make any combo when selecting the backgrond first.</li>
+    <li>Uniques (DCSS existing or not) have a brown text added to the unqiue's description starting with: 
+        "DC Chili change: ..." that describes the drop-on-kill happening 50% of the time.</li>
+         (If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.)</li>
+    <li>Most uniques have a 5% chance of getting an artefact weapon, armour, jewellery or shield/orb.</li>
+    <li>In Webtiles, the items bar has been totally rework.</li>
 </ul>
 
 <h4>Branch Related</h4>
@@ -59,28 +63,6 @@
         He has taken you as a competitor and will likely attack you if you become the closest target.</li>
 </ul>
 
-<h4>Modified DCSS Uniques: with a 50% chance of dropping an item when killed!</h4>
-<ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/eustachio.png">
-        Eustachio can drop a small spellbook with summoning spells.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/fannar.png">
-        Fannar can drop a small spellbook with Summon Ice Beast.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/grinder.png">
-        Grinder can drop a scroll of torment.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/jessica.png">
-        Jessica can drop a two-spell spellbook with the Blink spell being included 50% of the time.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/josephine.png">
-        Josephine can drop a small spellbook with Necromancy spells.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/maurice.png">
-        Maurice can drop a scroll of acquirement.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/menkaure.png">
-        Menkaure can drop either a scroll of torment or a ring of positive energy.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/sigmund.png">
-        Sigmund can drop a scroll of bless item and no longer shows up on D:2.</li>
-</ul>
-<p>NOTE: For the DC Chili v1.0 release, all DCSS uniques will be dropping an item 50% of the time when killed. 
-         If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.</p>
-<p>NOTE2: This list is no longer updated since more than 20 Uniques have already been programmed to drop something 50% of the time when killed.</p>
-
 <h4>Imported from BCadren Crawl</h4>
 <ul><li>The species Silent Specter was added.</li>
     <li>Ported over the Maces and Flails "Leiomanos" weapon found predominately in Shoals.</li>
@@ -99,23 +81,11 @@
         Tier 2: Procs 50% up from 20%;<br>
         Tier 3: Replaces silent aura with an engulf attack and silent casting,</li>
     <li>Removed random blink when monsters go invisible.</li>
-    <li>Potions of Moonshine have been removed.</li>
+    <li>Potions of Moonshine have been removed, and so have scrolls of Identification.</li>
     <li>Gem counter has been set to the same as DCSS even though most of those branches have 1 less floor.</li>
     <li>The Tiles main menu has been reworked, and links to websites have been added.</li>
     <li>For the Tiles version, the window is maximised by default, and on Windows and Linux, the F11 key can be used to enter a borderless full screen view.</li>
     <li>The heavy brand has been replaced by vorpal.</li>
-</ul>
-
-<h4>Minor Changes not documented in-game.</h4>
-This list will be removed later on to reduce the size of this page.
-<ul><li>Lowered QB's and athame's mindelay to 14 skill, raised rapier's base dam to 10, and gave athame the dagger-stabbing modifier.</li>
-    <li>The +6 Iskenderun Plasma Blade is a dagger type weapon that deals unresistable damage!</li>
-    <li>Formicids and Tengus can wear a hat.</li>
-    <li>Felids can wear a hat and boots.</li>
-    <li>Octopodes can wear scarves.</li>
-    <li>Added a level 7 spell: Corrosive Blob.</li>
-    <li>Delatra’s Gloves now heal HP when quaffing a known potion and restore MP when reading a known scroll.</li>
-    <li>Morgue's Message History section: now 100 lines long and includes -/+ HP values during battles.</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
