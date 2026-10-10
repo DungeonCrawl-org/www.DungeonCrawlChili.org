@@ -2,9 +2,9 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Oct 7</p>
+<p>As of Oct 10</p>
 
-<pre>MASSIVE SPOILERS BELOW!</pre>
+<pre><b>MASSIVE SPOILERS BELOW!</b></pre>
 
 <h2>Implemented already:</h2>
 
@@ -52,6 +52,8 @@
         Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair. It can drop a granite talisman.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/peregrine.png">
         Peregrine the Pilferer is an invisible kobold scavenger who prowls the Orcish Mines collecting any items.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/baba_yaga.png">
+        Baba Yaga can show up in the Swamp and lives n a hut on chicken legs.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
         Octavia the Heretic is an Octopode of Gozag that can show up in Depths, and can dopr gold when killed.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
@@ -72,7 +74,8 @@
 </ul>
 
 <h4>Minor Changes not documented in-game.</h4>
-<ul><li>The XP value is shown in the monster's description.</li>
+<ul><li>The down staircases to the last floor of a branch use the different staircase for V:3 to V:4.</li>
+    <li>The XP value is shown in the monster's description.</li>
     <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
     <li>A mutation set rework for: Black Mark<br>
         Tier 1: Devilish stinger aux attack;<br>
