@@ -52,7 +52,7 @@
         Verity the Stone Dragon has the Stone Arrow spell and shows up in the Lair. It can drop a granite talisman.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/peregrine.png">
         Peregrine the Pilferer is an invisible kobold scavenger who prowls the Orcish Mines collecting any items.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/baba_yaga.png">
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/baba_yaga_exposed.png">
         Baba Yaga can show up in the Swamp and lives n a hut on chicken legs.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
         Octavia the Heretic is an Octopode of Gozag that can show up in Depths, and can dopr gold when killed.</li>
