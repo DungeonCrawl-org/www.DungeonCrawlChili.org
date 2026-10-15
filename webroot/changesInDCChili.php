@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Oct 10</p>
+<p>As of Oct 15</p>
 
 <pre><b>MASSIVE SPOILERS BELOW!</b></pre>
 
@@ -17,6 +17,10 @@
          (If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.)</li>
     <li>Most uniques have a 5% chance of getting an artefact weapon, armour, jewellery or shield/orb.</li>
     <li>In Webtiles, the items bar has been totally rework and is vertical by default.</li>
+    <li>3 new add-ons have been created:<br>
+        - a Coachng Help that sends the current morgue file to the player's AI account for analysis in order to get assistance to get out of difficult situations;<br>
+        - a Post-Mortem analysis that determines the cause of death and alternatives that could have been taken in order to survive; and<br>
+        - a Death Replay that allows the player to replay a death scenario. The webtiles version is nly available on the DCF WebTiles server.</li>
 </ul>
 
 <h4>Branch Related</h4>
