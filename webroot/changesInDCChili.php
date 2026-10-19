@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Oct 15</p>
+<p>As of Oct 19</p>
 
 <pre><b>MASSIVE SPOILERS BELOW!</b></pre>
 
@@ -78,6 +78,10 @@
     <li>Potions of gain strength, dexterity, and intelligence have been added.</li>
     <li>Scrolls of bless item have been added, while Scroll of Brand Weapon have been removed.</li>
     <li>Readded staves of summoning that heal your allies.</li>
+</ul>
+
+<h4>Imported from BCrawl</h4>
+<ul><li>The species Fairy was added.</li>
 </ul>
 
 <h4>Minor Changes not documented in-game.</h4>
