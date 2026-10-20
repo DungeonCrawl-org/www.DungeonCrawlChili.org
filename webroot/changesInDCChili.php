@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Oct 19</p>
+<p>As of Oct 20</p>
 
 <pre><b>MASSIVE SPOILERS BELOW!</b></pre>
 
@@ -38,6 +38,7 @@
     <li>D:6 has a hot & cold theme with 4 different central vaults.</li>
     <li>D:7 has a central abandoned nature reserve with 3 different central vaults.</li>
     <li>Out of Depths monsters for the Dungeon has been reduced from 7% to 3%.</li>
+    <li>9 Uniques out of retirement: They now show up as wandering aimlessly in the Necropolis!</li>
 </ul>
 
 <h4>New Uniques:  with a 50% chance of dropping an item when killed!</h4>
