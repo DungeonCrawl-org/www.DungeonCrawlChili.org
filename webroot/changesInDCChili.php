@@ -43,8 +43,8 @@
 
 <h4>New Uniques:  with a 50% chance of dropping an item when killed!</h4>
 <ul><li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/pooka_spirit.png">
-        A shape-shifting spirit from Irish folklore. Pooka shifts between a stout beast form and a fleeting spirit form as it fights. 
-        It is almost guaranteed on D;2 and can drop a basic talisman.</li>
+        A shape-shifting spirit from Irish folklore, Pooka shifts between a stout beast form and a fleeting spirit form as it fights. 
+        It is almost guaranteed on D:2 and can drop a basic talisman.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/medusa.png">
         Medusa, a naga with the Petrify spell, will always show up on D:3 close to the granite statues.
         On her own, she isn't dangerous but when she dies the statues change into adders and one water moccasin emerges from a fountain. She can drop a Medusa talisman.</li>
