@@ -116,6 +116,7 @@
 <h2>New functionalities on DCF (https://dcf.dungeoncrawlforks.org/#lobby):</h2>
 <ul><li>A Death Replay of the last 100 games on the Webtiles server in WizMode. Can you succeed where others have died?</li>
     <li>A Coaching Help and Post-Mortem Analysis via your own AI account.</li>
+    <li>It is possible to enter WizMode by pressing the key: &</li>
 </ul>
 
 <h2>Suggestions to be considered:</h2>
