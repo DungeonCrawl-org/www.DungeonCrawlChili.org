@@ -74,7 +74,9 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/cerberus.png">
         Cerberus, the Greek 3-headed hound can appear in Tartarus 1-5.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/minos.png">
-        Minos, Judge of the Iron Dead, can appear in Gehenna 1-5.</li>
+        Minos, Judge of the Iron Dead, can appear in Dis 1-5.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/alecto.png">
+        Alecto, the Burning Fury, can appear in Gehenna 1-5.</li>
 </ul>
 
 <h4>Imported from BCadren Crawl</h4>
