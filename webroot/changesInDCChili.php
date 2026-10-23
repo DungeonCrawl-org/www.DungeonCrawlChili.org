@@ -27,6 +27,7 @@
 <ul><li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
     <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game and 
         XP on kills has been increase by 10%.</li>
+    <li>This lead to the rare occurence of having 5+ Uniques per level, so a cap of 4 Uniques per level has been implemented.</li>
 </ul>
 
 <h4>Dungeon Floor Related</h4>
