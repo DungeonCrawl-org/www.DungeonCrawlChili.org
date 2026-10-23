@@ -82,13 +82,14 @@
 
 <h4>Imported from BCadren Crawl</h4>
 <ul><li>The species Silent Specter and Lignilite were added.</li>
+    <li>The backgrounds Priest and Archeologist were added.</li>
     <li>Ported over the Maces and Flails "Leiomanos" weapon found predominately in Shoals.</li>
     <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
     <li>Potions of beneficial mutation have been added.</li>
     <li>Potions of gain strength, dexterity, and intelligence have been added.</li>
     <li>Scrolls of bless item have been added, while Scroll of Brand Weapon have been removed.</li>
     <li>Readded staves of summoning that heal your allies.</li>
-</ul>
+ </ul>
 
 <h4>Imported from BCrawl</h4>
 <ul><li>The species Fairy was added.</li>
