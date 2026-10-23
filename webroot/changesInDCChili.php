@@ -2,7 +2,7 @@
 <?php require 'views/neck.php';   ?>
 <h1>Changes to Dungeon Crawl Chili</h1>
 ...as compared to DCSS.
-<p>As of Oct 20</p>
+<p>As of Oct 23</p>
 
 <pre><b>MASSIVE SPOILERS BELOW!</b></pre>
 
