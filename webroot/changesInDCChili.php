@@ -83,6 +83,7 @@
 <h4>Imported from BCadren Crawl</h4>
 <ul><li>The species Silent Specter and Lignilite were added.</li>
     <li>The backgrounds Priest and Archeologist were added.</li>
+    <li>The god Bahumet and Tiamat was imported without the mount and was renamed Paha and Piva.</li>
     <li>Ported over the Maces and Flails "Leiomanos" weapon found predominately in Shoals.</li>
     <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
     <li>Potions of beneficial mutation have been added.</li>
