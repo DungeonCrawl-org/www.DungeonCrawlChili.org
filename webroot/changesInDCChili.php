@@ -11,23 +11,23 @@
 <h4>Important changes</h4>
 <ul><li>Scrolls and potions are already identified.</li>
     <li>The drop rate for Artefacts has been doubled.</li>
-    <li>Malevelant forces have been removed.</li>
-    <li>Uniques (DCSS existing or not) have a brown text added to the unqiue's description starting with: 
+    <li>Malevolant forces have been removed.</li>
+    <li>Uniques (DCSS existing or not) have a brown note added to the unique's description starting with: 
         "DC Chili change: ..." that describes the drop-on-kill happening 50% of the time.</li>
-         (If you would like to see a specific drop for a specific unqique, please contact RoGGa in DC discord.)</li>
+         (If you would like to see a specific drop for a specific unique, please contact RoGGa in DC Discord.)</li>
     <li>Most uniques have a 5% chance of getting an artefact weapon, armour, jewellery or shield/orb.</li>
-    <li>In Webtiles, the items bar has been totally rework and is vertical by default.</li>
+    <li>In WebTiles, the items bar has been totally reworked and is vertical by default.</li>
     <li>3 new add-ons have been created:<br>
-        - a Coachng Help that sends the current morgue file to the player's AI account for analysis in order to get assistance to get out of difficult situations;<br>
+        - a Coaching Help that sends the current morgue file to the player's AI account for analysis in order to get assistance to get out of difficult situations;<br>
         - a Post-Mortem analysis that determines the cause of death and alternatives that could have been taken in order to survive; and<br>
-        - a Death Replay that allows the player to replay a death scenario. The webtiles version is only available on the DCF WebTiles server.</li>
+        - a Death Replay that allows the player to replay a death scenario. The WebTiles version is only available on the DCF WebTiles server.</li>
 </ul>
 
 <h4>Branch Related</h4>
 <ul><li>The number of floors for each branch (including Dungeon) was reduced by 1 floor, except for Orcish Mines, the Elven Halls and Crypt.</li>
-    <li>To compensate for the loss of XP from 1 less floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game and 
-        XP on kills has been increase by 10%.</li>
-    <li>This lead to the rare occurence of having 5+ Uniques per level, so a cap of 4 Uniques per level has been implemented.</li>
+    <li>To compensate for the loss of XP from one fewer floor in most branches and Dungeon, Uniques have a much higher spawn rate throughout the game and 
+        XP on kills has been increased by 10%.</li>
+    <li>This led to the rare occurrence of having 5+ Uniques per level, so a cap of 4 Uniques per level has been implemented.</li>
 </ul>
 
 <h4>Dungeon Floor Related</h4>
@@ -38,7 +38,7 @@
     <li>D:5 is a catacomb with Menkaure almost guaranteed. The DCSS Ossuary has been removed.</li>
     <li>D:6 has a hot & cold theme with 4 different central vaults.</li>
     <li>D:7 has a central abandoned nature reserve with 3 different central vaults.</li>
-    <li>Out of Depths monsters for the Dungeon has been reduced from 7% to 3%.</li>
+    <li>The chance of out-of-depth monsters appearing in the Dungeon branch has been reduced from 7% to 3%.</li>
     <li>9 Uniques out of retirement: They now show up as wandering aimlessly in the Necropolis!</li>
 </ul>
 
@@ -64,7 +64,7 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/baba_yaga_exposed.png">
         Baba Yaga can show up in the Swamp and lives in a hut on chicken legs.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/octavia.png">
-        Octavia the Heretic is an Octopode of Gozag that can show up in Depths, and can dopr gold when killed.</li>
+        Octavia the Heretic is an Octopode of Gozag that can show up in Depths, and can drop gold when killed.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/regal.png">
         Regal, an octopode with a cape, can show up in Depths, Crypt or Zot. It can drop an unrand trident or a ring.</li> 
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/scave.png">
@@ -81,8 +81,8 @@
 </ul>
 
 <h4>Imported from BCadren Crawl</h4>
-<ul><li>The species Silent Specter and Lignilite were added.</li>
-    <li>The backgrounds Priest and Archeologist were added.</li>
+<ul><li>The species Silent Spectre and Lignifite were added.</li>
+    <li>The backgrounds Priest and Archaeologist were added.</li>
     <li>The god Bahumet and Tiamat was imported without the mount and was renamed Paha and Piva.</li>
     <li>Ported over the Maces and Flails "Leiomanos" weapon found predominately in Shoals.</li>
     <li>Wooden weapons can no longer get the Flaming ego/brand.</li>
@@ -99,7 +99,7 @@
 <h4>Minor Changes not documented in-game.</h4>
 <ul><li>The down staircases to the last floor of a branch use the different staircase for V:3 to V:4.</li>
     <li>The XP value is shown in the monster's description.</li>
-    <li>Changes the silence aura mutation to a 3 tier silence halo mutation that the player is not silenced.</li>
+    <li>The silence-aura mutation now grants a three-tier silence halo that does not silence the player.</li>
     <li>A mutation set rework for: Black Mark<br>
         Tier 1: Devilish stinger aux attack;<br>
         Tier 2: Procs 50% up from 20%;<br>
@@ -111,11 +111,11 @@
     <li>For the Tiles version, the window is maximised by default, and on Windows and Linux, the F11 key can be used to enter a borderless full screen view.</li>
     <li>The heavy brand has been replaced by vorpal.</li>
     <li>Character creation only shows recommended backgrounds after the species was chosen. 
-        It is still possible to make any combo when selecting the backgrond first.</li>
+        It is still possible to make any combo when selecting the background first.</li>
 </ul>
 
 <h2>New functionalities on DCF (https://dcf.dungeoncrawlforks.org/#lobby):</h2>
-<ul><li>A Death Replay of the last 100 games on the Webtiles server in WizMode. Can you succeed where others have died?</li>
+<ul><li>A Death Replay of the last 100 games on the WebTiles server in WizMode. Can you succeed where others have died?</li>
     <li>A Coaching Help and Post-Mortem Analysis via your own AI account.</li>
 </ul>
 
