@@ -5,7 +5,7 @@
 <p>Please ask RoGGa in the DC discord linked above.</p>
 <h2>Windows builds</h2>
 <h3>Installer for Tiles and Console builds</h2>
-<ul><li>2026-11-25: <a href="/downloads/DungeonCrawlChili-1.0-a0-2010-g7559859906-win32-installer.exe">DunegeonCrawlChili-1.0-a0-2010-g7559859906-win32-installer.exe</a></li></ul>
+<ul><li>2026-11-25: <a href="/downloads/DungeonCrawlChili-1.0-a0-2010-g7559859906-win32-tiles-installer.exe">DungeonCrawlChili-1.0-a0-2010-g7559859906-win32-tiles-installer.exe</a></li></ul>
 
 <h2>Linux builds</h2>
 <h3>Linux Tiles builds</h2>
