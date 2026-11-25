@@ -70,8 +70,8 @@
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/scave.png">
         Scave the Devourer of Slime can appear in Slime:1. He hunts down slimes to eat them in order to restore his health. 
         He has taken you as a competitor and will likely attack you if you become the closest target.</li>
-    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/boreas.png">
-        Boreas, the Greek personification of the north wind and winter can appear in Cocytus 1-5.</li>
+    <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/aquilo.png">
+        Aquilo, a personification of the north wind and winter, can appear in Cocytus 1-5.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/cerberus.png">
         Cerberus, the Greek 3-headed hound can appear in Tartarus 1-5.</li>
     <li><img src="https://raw.githubusercontent.com/DungeonCrawl-org/DungeonCrawlChili/refs/heads/master/crawl-ref/source/rltiles/mon/unique/minos.png">
